@@ -73,8 +73,8 @@
   <a href="https://sqlmap.org/" target="_blank">
     <img src="https://www.vaadata.com/blog/wp-content/uploads/2024/05/exploiting-sqli-with-sqlmap.png" alt="SQLmap" width="40" height="40" />
   </a>
-  <a href="https://www.zaproxy.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/OWASP_ZAP_logo.png/800px-OWASP_ZAP_logo.png" alt="OWASP ZAP" width="40" height="40" />
+  <a href="https://www.kali.org/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhQyWhncuOiIaYnWBXh6MM8V23M-rTgXqGd38H-tDIlysGtcoI--mUe-8&s=10" alt="Kali Linux" width="40" height="40" />
   </a>
 </p>
 
