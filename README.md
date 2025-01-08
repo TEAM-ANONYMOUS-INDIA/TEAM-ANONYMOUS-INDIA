@@ -1,4 +1,11 @@
-# <h1 align="center" style="font-size: 3em; color: #ff0000; text-shadow: 2px 2px 4px #000000, 0 0 25px #ff0000, 0 0 5px #ff0000;">💀 Welcome to <strong style="font-size: 3.5em; color: #00FF00;">𝗧𝗘𝗔𝗠 𝗔𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦 𝗜𝗡𝗗𝗜𝗔 💀</strong></h1>
+# Extracted Image:
+<p align="center">
+  <img src="https://i.postimg.cc/YCcbh6yY/6062074634834133453-photoaidcom-cropped.png" alt="Channel Logo" width="200"/>
+</p>
+
+---
+
+<h1 align="center" style="font-size: 3em; color: #ff0000; text-shadow: 2px 2px 4px #000000, 0 0 25px #ff0000, 0 0 5px #ff0000;">💀 Welcome to <strong style="font-size: 3.5em; color: #00FF00;">𝗧𝗘𝗔𝗠 𝗔𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦 𝗜𝗡𝗗𝗜𝗔 💀</strong></h1>
 <h3 align="center" style="font-size: 2em; color: #ff4500; text-shadow: 2px 2px 4px #000000, 0 0 25px #ff4500;">𝙄𝙉𝘿𝙄𝘼𝙉 𝙃𝘼𝘾𝙆𝙏𝙄𝙑𝙄𝙎𝙏 𝙏𝙀𝘼𝙈</h3>
 
 <p align="center">
