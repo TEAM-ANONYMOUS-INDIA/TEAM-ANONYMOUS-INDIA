@@ -47,7 +47,7 @@
   </a>
 </p>
 
-<h4 align="left">⚙️ Tools:</h4>
+<h3 align="left">⚙️ Tools:</h3>
 <p align="left">
   <a href="https://nmap.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Nmap_logo.svg" alt="Nmap" width="40" height="40" />
@@ -80,7 +80,8 @@
 
 ---
 
-<h3 align="left">📈 GitHub Stats:</h3>
+## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=teamanonymousindia&show_icons=true&hide=stars&count_private=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -90,7 +91,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teamanonymousindia&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
 
 <h3 align="center">💻 "𝘿𝙊 𝙉𝙊𝙏 𝙁𝙀𝘼𝙍 𝙒𝙃𝘼𝙏 𝙔𝙊𝙐 𝘾𝘼𝙉𝙉𝙊𝙏 𝙎𝙀𝙀. 𝙁𝙀𝘼𝙍 𝙒𝙃𝘼𝙏 𝙒𝙀 𝘾𝘼𝙉 𝘿𝙊." 💻</h3>
