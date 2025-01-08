@@ -80,16 +80,4 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teamanonymousindia&show_icons=true&hide=stars&count_private=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teamanonymousindia&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teamanonymousindia&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 <h3 align="center">💻 "𝘿𝙊 𝙉𝙊𝙏 𝙁𝙀𝘼𝙍 𝙒𝙃𝘼𝙏 𝙔𝙊𝙐 𝘾𝘼𝙉𝙉𝙊𝙏 𝙎𝙀𝙀. 𝙁𝙀𝘼𝙍 𝙒𝙃𝘼𝙏 𝙒𝙀 𝘾𝘼𝙉 𝘿𝙊." 💻</h3>
