@@ -50,13 +50,13 @@
 <h3 align="left">⚙️ Tools:</h3>
 <p align="left">
   <a href="https://nmap.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Nmap_logo.svg" alt="Nmap" width="40" height="40" />
+    <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/nmap_logo_1-what_is_nmap.PNG" alt="Nmap" width="40" height="40" />
   </a>
   <a href="https://www.metasploit.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Metasploit_logo.svg" alt="Metasploit" width="40" height="40" />
+    <img src="https://media.licdn.com/dms/image/v2/C5633AQHz6xjHG_s0fQ/productpage-image_1128_635/productpage-image_1128_635/0/1626341063105/isoc24_b_v__metasploit_rapid7_image?e=2147483647&v=beta&t=5nKtSmBtM7ZjgxteR6bOl4Q0MqV7dT0t5BUvsuGNgM4" alt="Metasploit" width="40" height="40" />
   </a>
   <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_icon.svg" alt="Wireshark" width="40" height="40" />
+    <img src="https://www.stickerpress.in/media/products/800x800/1609ed30832a4867b9e4fa09a3e4e931.webp" alt="Wireshark" width="40" height="40" />
   </a>
   <a href="https://portswigger.net/burp" target="_blank">
     <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*lBvpaPyTLuFOwf3T.jpg" alt="Burp Suite" width="40" height="40" />
@@ -65,13 +65,13 @@
     <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" alt="Aircrack-ng" width="40" height="40" />
   </a>
   <a href="https://www.openwall.com/john/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/John_the_Ripper_logo.png/600px-John_the_Ripper_logo.png" alt="John the Ripper" width="40" height="40" />
+    <img src="https://blog.1password.com/posts/2012/1password-is-ready-for-john-the-ripper/johntheripper.png" alt="John the Ripper" width="40" height="40" />
   </a>
   <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank">
     <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Hydra" width="40" height="40" />
   </a>
   <a href="https://sqlmap.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Sqlmap_logo.png" alt="SQLmap" width="40" height="40" />
+    <img src="https://www.vaadata.com/blog/wp-content/uploads/2024/05/exploiting-sqli-with-sqlmap.png" alt="SQLmap" width="40" height="40" />
   </a>
   <a href="https://www.zaproxy.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/OWASP_ZAP_logo.png/800px-OWASP_ZAP_logo.png" alt="OWASP ZAP" width="40" height="40" />
