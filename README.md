@@ -1,8 +1,8 @@
-<h1 align="center">Welcome to <strong>𝗧𝗘𝗔𝗠 𝗔𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦 𝗜𝗡𝗗𝗜𝗔</strong> 👾</h1>
+<h1 align="center">💀 Welcome to <strong>𝗧𝗘𝗔𝗠 𝗔𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦 𝗜𝗡𝗗𝗜𝗔 💀</strong></h1>
 <h3 align="center">𝙄𝙉𝘿𝙄𝘼𝙉 𝙃𝘼𝘾𝙆𝙏𝙄𝙑𝙄𝙎𝙏 𝙏𝙀𝘼𝙈</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&width=500&height=50&lines=Hack+the+System;Ethical+Hackers;Exploring+Cybersecurity;Join+the+Fight" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=💻+Hack+the+Planet+💻;⚡+Hacktivism+is+a+Weapon+⚡;🔒+Exploit+the+Unexplored+🔒;💀+We+Are+Untraceable+💀" alt="Typing SVG">
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 ---
 
-<h3 align="left">⚙️ Languages and Tools:</h3>
+<h3 align="left">💣 Hacking Tools and Languages:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
@@ -44,7 +44,38 @@
   </a> 
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a> 
+  </a>
+</p>
+
+<h4 align="left">⚙️ Tools:</h4>
+<p align="left">
+  <a href="https://nmap.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Nmap_logo.svg" alt="Nmap" width="40" height="40" />
+  </a>
+  <a href="https://metasploit.com/" target="_blank">
+    <img src="https://www.streamlinehq.com/icons/download/metasploit--31088" alt="Metasploit" width="40" height="40" />
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/wireshark-logo" alt="Wireshark" width="40" height="40" />
+  </a>
+  <a href="https://portswigger.net/burp" target="_blank">
+    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*lBvpaPyTLuFOwf3T.jpg" alt="Burp Suite" width="40" height="40" />
+  </a>
+  <a href="https://aircrack-ng.org/" target="_blank">
+    <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" alt="Aircrack-ng" width="40" height="40" />
+  </a>
+  <a href="https://www.openwall.com/john/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/John_the_Ripper_logo.png/600px-John_the_Ripper_logo.png" alt="John the Ripper" width="40" height="40" />
+  </a>
+  <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank">
+    <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Hydra" width="40" height="40" />
+  </a>
+  <a href="https://sqlmap.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Sqlmap_logo.png" alt="SQLmap" width="40" height="40" />
+  </a>
+  <a href="https://www.zaproxy.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/OWASP_ZAP_logo.png/800px-OWASP_ZAP_logo.png" alt="OWASP ZAP" width="40" height="40" />
+  </a>
 </p>
 
 ---
@@ -62,4 +93,4 @@
 
 ---
 
-<h3 align="center">💻 "𝙃𝘼𝘾𝙆 𝙏𝙃𝙀 𝙒𝙊𝙍𝙇𝘿 𝙊𝙍 𝙒𝘼𝙏𝘾𝙃 𝙄𝙏 𝘽𝙐𝙍𝙉" 💻</h3>
+<h3 align="center">💻 "𝘿𝙊 𝙉𝙊𝙏 𝙁𝙀𝘼𝙍 𝙒𝙃𝘼𝙏 𝙔𝙊𝙐 𝘾𝘼𝙉𝙉𝙊𝙏 𝙎𝙀𝙀. 𝙁𝙀𝘼𝙍 𝙒𝙃𝘼𝙏 𝙒𝙀 𝘾𝘼𝙉 𝘿𝙊." 💻</h3>
