@@ -59,7 +59,7 @@
     <img src="https://www.stickerpress.in/media/products/800x800/1609ed30832a4867b9e4fa09a3e4e931.webp" alt="Wireshark" width="40" height="40" />
   </a>
   <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*lBvpaPyTLuFOwf3T.jpg" alt="Burp Suite" width="40" height="40" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrBejA33v7oLfZBg2nj7cpD05V4l0TCrk0FX7dxFKLfaGupoebFSwdLS96&s=10" alt="Burp Suite" width="40" height="40" />
   </a>
   <a href="https://aircrack-ng.org/" target="_blank">
     <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" alt="Aircrack-ng" width="40" height="40" />
