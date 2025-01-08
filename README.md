@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We're <strong>𝗧𝗘𝗔𝗠 𝗔𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦 𝗜𝗡𝗗𝗜𝗔</strong></h1>
+<h1 align="center">Hi, We're <strong>𝗧𝗘𝗔𝗠 𝗔𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦 𝗜𝗡𝗗𝗜𝗔</strong></h1>
 <h3 align="center">INDIAN HACKTIVIST TEAM</h3>
 
 <h3 align="left">Connect with us:</h3>
