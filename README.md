@@ -50,13 +50,13 @@
 <h4 align="left">⚙️ Tools:</h4>
 <p align="left">
   <a href="https://nmap.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Nmap_logo.svg" alt="Nmap" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Nmap_logo.svg" alt="Nmap" width="40" height="40" />
   </a>
-  <a href="https://metasploit.com/" target="_blank">
-    <img src="https://www.streamlinehq.com/icons/download/metasploit--31088" alt="Metasploit" width="40" height="40" />
+  <a href="https://www.metasploit.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Metasploit_logo.svg" alt="Metasploit" width="40" height="40" />
   </a>
   <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/wireshark-logo" alt="Wireshark" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_icon.svg" alt="Wireshark" width="40" height="40" />
   </a>
   <a href="https://portswigger.net/burp" target="_blank">
     <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*lBvpaPyTLuFOwf3T.jpg" alt="Burp Suite" width="40" height="40" />
