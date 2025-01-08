@@ -1,5 +1,5 @@
-<h1 align="center">💀 Welcome to <strong>𝗧𝗘𝗔𝗠 𝗔𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦 𝗜𝗡𝗗𝗜𝗔 💀</strong></h1>
-<h3 align="center">𝙄𝙉𝘿𝙄𝘼𝙉 𝙃𝘼𝘾𝙆𝙏𝙄𝙑𝙄𝙎𝙏 𝙏𝙀𝘼𝙈</h3>
+<h1 align="center" style="font-size: 3em; color: #ff0000; text-shadow: 2px 2px 4px #000000, 0 0 25px #ff0000, 0 0 5px #ff0000;">💀 Welcome to <strong style="font-size: 3.5em; color: #00FF00;">𝗧𝗘𝗔𝗠 𝗔𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦 𝗜𝗡𝗗𝗜𝗔 💀</strong></h1>
+<h3 align="center" style="font-size: 2em; color: #ff4500; text-shadow: 2px 2px 4px #000000, 0 0 25px #ff4500;">𝙄𝙉𝘿𝙄𝘼𝙉 𝙃𝘼𝘾𝙆𝙏𝙄𝙑𝙄𝙎𝙏 𝙏𝙀𝘼𝙈</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=💻+Hack+the+Planet+💻;⚡+Hacktivism+is+a+Weapon+⚡;🔒+Exploit+the+Unexplored+🔒;💀+We+Are+Untraceable+💀" alt="Typing SVG">
@@ -7,7 +7,7 @@
 
 ---
 
-<h3 align="left">🌐 Connect with us:</h3>
+<h3 align="left" style="font-size: 1.8em; color: #ff0000;">🌐 Connect with us:</h3>
 <p align="left">
   <a href="https://instagram.com/teamanonymousindia" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
@@ -19,8 +19,8 @@
 
 ---
 
-<h3 align="left">💣 Hacking Tools and Languages:</h3>
-<p align="left"> 
+<h3 align="left" style="font-size: 1.8em; color: #ff0000;">💣 Hacking Tools and Languages:</h3>
+<p align="left" style="color: #00FF00; font-size: 1.5em;">
   <a href="https://developer.android.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
   </a> 
@@ -47,8 +47,8 @@
   </a>
 </p>
 
-<h3 align="left">⚙️ Tools:</h3>
-<p align="left">
+<h3 align="left" style="font-size: 1.8em; color: #ff0000;">⚙️ Tools:</h3>
+<p align="left" style="font-size: 1.5em;">
   <a href="https://nmap.org/" target="_blank">
     <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/nmap_logo_1-what_is_nmap.PNG" alt="Nmap" width="40" height="40" />
   </a>
@@ -78,6 +78,12 @@
   </a>
 </p>
 
+<p align="center">
+  <progress value="70" max="100" style="width: 80%; height: 20px; background-color: #00FF00; border-radius: 10px; border: 2px solid #000000;"></progress>
+  <br>
+  <span style="color: #00FF00; font-size: 1.5em;">💀 Elite Hacker Status 💀</span>
+</p>
+
 ---
 
-<h3 align="center">💻 "𝘿𝙊 𝙉𝙊𝙏 𝙁𝙀𝘼𝙍 𝙒𝙃𝘼𝙏 𝙔𝙊𝙐 𝘾𝘼𝙉𝙉𝙊𝙏 𝙎𝙀𝙀. 𝙁𝙀𝘼𝙍 𝙒𝙃𝘼𝙏 𝙒𝙀 𝘾𝘼𝙉 𝘿𝙊." 💻</h3>
+<h3 align="center" style="font-size: 1.8em; color: #ff0000;">💻 "𝘿𝙊 𝙉𝙊𝙏 𝙁𝙀𝘼𝙍 𝙒𝙃𝘼𝙏 𝙔𝙊𝙐 𝘾𝘼𝙉𝙉𝙊𝙏 𝙎𝙀𝙀. 𝙁𝙀𝘼𝙍 𝙒𝙃𝘼𝙏 𝙒𝙀 𝘾𝘼𝙉 𝘿𝙊." 💻</h3>
