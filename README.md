@@ -42,13 +42,13 @@
     <img src="https://nmap.org/images/nmap-logo.png" alt="Nmap" width="40" height="40" />
   </a> 
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.metasploit.com/images/ms-logo.png" alt="Metasploit" width="40" height="40" />
+    <img src="https://www.streamlinehq.com/icons/download/metasploit--31088" alt="Metasploit" width="40" height="40" />
   </a> 
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.wireshark.org/assets/images/icons/wireshark-logo.svg" alt="Wireshark" width="40" height="40" />
+    <img src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/wireshark-logo" alt="Wireshark" width="40" height="40" />
   </a> 
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://portswigger.net/images/logos/logo.svg" alt="Burp Suite" width="40" height="40" />
+    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*lBvpaPyTLuFOwf3T.jpg" alt="Burp Suite" width="40" height="40" />
   </a> 
   <a href="https://aircrack-ng.org/" target="_blank" rel="noreferrer">
     <img src="https://aircrack-ng.org/images/aircrack-ng.png" alt="Aircrack-ng" width="40" height="40" />
