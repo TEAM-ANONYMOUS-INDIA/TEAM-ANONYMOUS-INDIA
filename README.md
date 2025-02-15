@@ -20,9 +20,7 @@
 </p>
 
 ---
-#WE ARE :
-
-
+<h1 align="center" style="font-size: 3em; color: #ff0000; text-shadow: 2px 2px 4px #000000, 0 0 25px #ff0000, 0 0 5px #ff0000;">💀 Welcome to <strong style="font-size: 3.5em; color: #00FF00;">𝗧𝗘𝗔𝗠 𝗔𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦 𝗜𝗡𝗗𝗜𝗔 💀</strong></h1>
 ---
 
 <h3 align="left" style="font-size: 1.8em; color: #ff0000;">🌐 Connect with us:</h3>
